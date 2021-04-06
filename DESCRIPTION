@@ -4,7 +4,7 @@ Title: Helper functions for repgames and dyngames
 Version: 0.1
 Date: 2012-03-17
 Author: Sebastian Kranz
-Maintainer: Sebastian Kranz <skranz@uni-ulm.de>
+Maintainer: Sebastian Kranz <sebastian.kranz@uni-ulm.de>
 Description: Helper functions needed by my package repgames and dyngames
 License: GPL (>= 2)
 Imports: Rcpp (>= 0.11.2)
